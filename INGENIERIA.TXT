@@ -16,6 +16,9 @@
 
 
 5.BASE DE DATOS 1
+
+        ACCES: https://drive.google.com/drive/folders/1ZP_rNkjDzpQRJ5dEmciRXKGaG7ogc9Hd?usp=drive_link
+
         BASICO: https://www.youtube.com/watch?v=YL98fk1pE6Q&list=PLmIB7uA74Vvaub8PVR2Tj3B6_Wq1wr21Y
 
         RELACIONLAES:
@@ -129,6 +132,7 @@
         KALI LINUX: https://youtube.com/playlist?list=PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN&si=gpujOHO0KifstyPG
 
         HACKING ETICO: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=mtjNs4-82SYajVQP
+                       https://drive.google.com/drive/folders/1ryvm6yUA7xZa-aWKH0f_70YKJ1B33TpW?usp=drive_link
 
         HACKING AVANZANDO: https://www.youtube.com/watch?v=9tPZZu7Bseo&list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V
 
@@ -148,6 +152,15 @@
 
 15.ANALISIS DE DATOS: 
         https://youtube.com/playlist?list=PL5C9QKu8AsmUK_7AEP0hSmt-8vcE8gnIB&si=j2PjiclYcCHpo5jR (Para este necesitas haber visto el de PYTHON)
+
+
+16.HARDWARED:
+
+        PC: https://drive.google.com/drive/folders/1CqK7CUhnbOXvsInx9r4tTmLys8_4KAnH?usp=drive_link
+
+        CELULARES: https://drive.google.com/drive/folders/1rap1MmWNzvO16nZAmbpoq-c-4VARDRE6?usp=drive_link
+
+        ARMADO PCS: https://drive.google.com/drive/folders/1KsmDSpCejs6MU4yimuPLVXLoFCDhcX7C?usp=drive_link
 
 
 
