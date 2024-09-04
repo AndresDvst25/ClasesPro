@@ -94,11 +94,7 @@
             ERRORES EN CSS: https://www.youtube.com/watch?v=a6td69aNF6c&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB&index=4&pp=iAQB
 
         FUNCIONES WEB:
-            JAVASCRIPT: https://www.youtube.com/watch?v=z95mZVUcJ-E&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB&index=6&t=6339s&pp=iAQB
-                NODEJS: https://youtube.com/playlist?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7&si=F1iL6ySICodQWbMt
-                EXPRESS: https://www.youtube.com/watch?v=JmJ1WUoUIK4&pp=ygUSQ1VSU08gREUgRVhQUkVTU0pT
                 ANGULAR: https://www.youtube.com/watch?v=soInCF7nbDw&pp=ygUQQ1VSU08gREUgQU5HVUxBUg%3D%3D
-                REACT: https://youtube.com/playlist?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&si=QWcJSZedN5hTrqUM
 
             TYPESCRIP: https://www.youtube.com/watch?v=-xDZwb-PY0M&pp=ygUeY3Vyc28gZGUgdHlwZXNjcmlwdCBkZXNkZSBjZXJv
 

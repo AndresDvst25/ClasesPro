@@ -1,0 +1,142 @@
+1.FUNDAMENTOS DE PROGRAMACION:
+                https://youtube.com/playlist?list=PL2Z95CSZ1N4GMwrkJUarWX6SqOyF_B84l&si=oLhB7lJaKmu8uj-4
+
+
+2. LOGICA DE PROGRAMACION:
+                https://youtube.com/playlist?list=PL6_-QWg-BIvHIEs83CIqpB7IWlLktIClc&si=REpGwlOxZJ7UdPR7
+
+
+3.ESTRUTURA DE DATOS:
+                https://www.youtube.com/watch?v=SWCV9lb23WQ&pp=ygUZQ1VSU08gRVNUUlVDVFVSQSBERSBEQVRPUw%3D%3D
+
+
+4.ANALISIS DE ALGORITMOS:
+                https://www.youtube.com/playlist?list=PLfBtpqIBIz7oigjkp6SIKYbz2AkAEqFIE
+
+
+5.BASE DE DATOS:
+                https://platzi.com/ruta/base-de-datos/
+
+                ACCES: https://drive.google.com/drive/folders/1ZP_rNkjDzpQRJ5dEmciRXKGaG7ogc9Hd?usp=drive_link
+
+                BASICO: https://www.youtube.com/watch?v=YL98fk1pE6Q&list=PLmIB7uA74Vvaub8PVR2Tj3B6_Wq1wr21Y
+
+                RELACIONLAES:
+                        SQL: https://www.youtube.com/watch?v=OuJerKzV5T0&pp=ygUTQ1VSU08gQkFTRSBERSBEQVRPUw%3D%3D
+                        MYSQL: https://www.youtube.com/watch?v=ocOm_IHPXcU&list=PLIf4-vxURWLzDAfmxW9qPa5zYWL1982uo
+                        ORACLE: https://www.youtube.com/watch?v=poJWCl4ZPaQ&list=PL2Z95CSZ1N4H1cH3NZHfEUyKuxu7npxxz
+                        POSTGRSQL: https://www.youtube.com/watch?v=gEJcMrk3E-Q&list=PLgqdACsQ8US2DCzQVrdZDZCTtTFHMY0as
+
+                NO RELACIONALES:
+                        NOSQL:https://www.youtube.com/watch?v=3MWt3CCjHG8&pp=ygUOQ1VSU08gREUgTk9TUUw%3D
+                        MONGODB: https://www.youtube.com/watch?v=lWMemPN9t6Q&pp=ygUQQ1VSU08gREUgTU9OR09EQg%3D%3D
+
+                BASE DE DATOS WEB:
+                        AZURE: https://www.youtube.com/watch?v=rYW75_0RCzU&pp=ygUPY3Vyc28gZGUgQVpVUkUg
+                               https://platzi.com/ruta/azure/
+                        AWS: https://www.youtube.com/watch?v=zQyrhjEAqLs&pp=ygUMY3Vyc28gZGUgQVdT
+                             https://platzi.com/ruta/aws/
+                        BIGQUERY: https://youtube.com/playlist?list=PLGnDOd349NCNtUCRdRbtMRKl0V2gPPr5G&si=FV2VHF89O05PP0BB
+
+                AVANZANDO: https://youtube.com/playlist?list=PLLQeEvQAYxX608NqVvX32zSPenZ0vIojh&si=wVHNtVMXTFWBRHpe
+
+
+6.REDES:
+                BASICO: https://platzi.com/cursos/redes/
+                AVANZADO: https://platzi.com/cursos/avanzado-redes/
+
+
+7.ARQUITECTURA DE COMPUTADORES (OPCIONAL):
+                https://youtube.com/playlist?list=PLHX61pZ-vcki5ONxG8W3xmVhZ7zrNxshT&si=j8GS3B1RjxQARFX7 
+
+
+8.SISTEMAS OPERATIVOS:
+
+                WINDOWS: https://www.youtube.com/watch?v=4kKfv8nrfWA&list=PLjmDjOyZOPwQqLPLOiEcp6yPAbuihBY1G
+
+                WINDOWS SERVER:
+                        2012: https://youtube.com/playlist?list=PLEmsMMOSNtyqGsnjxx-YkPWo1xqu7YyXR&si=-nqgo9fE2lNBVS0K
+                        2019: https://youtube.com/playlist?list=PLThkZy_SrhoUyN24kzmjo01a03vYqKXdx&si=c64UAC02RNGzPzhz
+                        2022: https://youtube.com/playlist?list=PL2Z95CSZ1N4E-yNYehqD1FKU8aBdjBfRM&si=FSsa_6DOozQGTtaP
+
+                LINUX: 
+                        BASICO: https://youtube.com/playlist?list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A&si=0yxMVFeM2ayf0B_f
+                        UBUNTU: https://www.youtube.com/watch?v=woLS7yc95j0&pp=ygUPY3Vyc28gZGUgVUJVTlRV
+                        DEBIAN: https://www.youtube.com/watch?v=dWuNIkMiCVM&pp=ygUPY3Vyc28gZGUgREVCSUFO
+                        FEDORA: https://youtube.com/playlist?list=PLYNaXenwF2w8m8RI96yg8ACXCCymNhn_A&si=pn5IBCV29VqxkDT6
+
+                LINUX SERVER:
+                        UBUNTU: https://www.youtube.com/watch?v=QkIf40SPNac&list=PL2Z95CSZ1N4GQUzO4aGda6UEmq4yqPLMN
+
+
+9.VSCODE
+                https://www.youtube.com/watch?v=TbzrOz8HbFM&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB&index=20&pp=iAQB
+
+
+10.GIT:
+                https://platzi.com/cursos/git-github/
+
+
+11.PROGRMACION WEB:
+
+                A.DISEÑO WEB: https://platzi.com/ruta/web-frontend/
+
+                B.JAVASCRIPT:
+                        *FUNDAMENTOS: https://platzi.com/ruta/javascript-fundamentos/?school=_escuela_javascript_
+                        *FRONTEND: https://platzi.com/ruta/web-javascript/?school=_escuela_javascript_
+                        *BACKEND: https://platzi.com/ruta/backend-js/?school=_escuela_javascript_
+                        *REACT: https://platzi.com/ruta/web-react/?school=_escuela_javascript_
+                        *EXPRESS: https://www.youtube.com/watch?v=JmJ1WUoUIK4&pp=ygUSQ1VSU08gREUgRVhQUkVTU0pT
+                        *NEXT: https://platzi.com/ruta/web-next/?school=_escuela_javascript_
+
+                C.HOSTING: https://www.youtube.com/watch?v=hikoV1Q9EzY&list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB&index=19&pp=iAQB
+
+
+12.SOFTWARE:
+
+                A.C#: https://platzi.com/ruta/web-net/
+
+                B.ASP.NET: https://platzi.com/ruta/asp-net/
+
+                C.PRUEBAS: https://platzi.com/ruta/web-qa/
+
+
+13.CIBERSEGURIDAD: 
+
+                A.https://platzi.com/escuela/ciberseguridad/
+
+                B.HACKING ETICO: https://youtube.com/playlist?list=PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u&si=mtjNs4-82SYajVQP
+                                https://drive.google.com/drive/folders/1ryvm6yUA7xZa-aWKH0f_70YKJ1B33TpW?usp=drive_link
+
+                  HACKING AVANZANDO: https://www.youtube.com/watch?v=9tPZZu7Bseo&list=PLG1hKOHdoXkvhIO_x62ivA3iLh-m9L_3V
+
+
+14.LENGUAJES DE PROGRMACION:
+
+                A.PYTHN: https://platzi.com/ruta/web-python/
+
+                B.JAVA: https://platzi.com/ruta/desarrollo-java/
+
+                C.PHP: https://platzi.com/ruta/web-php/
+
+                D.TYPESCRIP: https://platzi.com/ruta/typescript/
+
+
+15.SERVIDORES: 
+
+                A.LINUX: https://platzi.com/ruta/cloud-servidores/
+
+                B.ADMINISTRACION: https://platzi.com/ruta/servidores/
+
+
+16.ANALISIS DE DATOS: 
+                https://platzi.com/ruta/data-analyst/
+
+
+17.INGENIERIA DE DATOS: 
+                https://platzi.com/ruta/data-engineer/
+
+
+18.INTERNET DE LAS COSAS:
+                https://platzi.com/ruta/iot/
+
